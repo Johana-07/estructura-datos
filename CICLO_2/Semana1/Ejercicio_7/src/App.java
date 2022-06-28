@@ -16,11 +16,12 @@ public class App {
         var c = (a > 4 ? a * 7 : a + 8);
         System.out.println("c: " + c);
 
-        Scanner sc = new Scanner(System.in);
-        System.out.println("ingrese el numero  entero : ");
-        var numero = sc.nextInt();
+        try (var sc = new Scanner(System.in)) {
+            System.out.println("ingrese el numero  entero : ");
+            var numero = sc.nextInt();
 
-        System.out.println(validarNumero(numero));
+            System.out.println(validarNumero(numero));
+        }
     }
 
     public static String validarNumero(int numero) {
