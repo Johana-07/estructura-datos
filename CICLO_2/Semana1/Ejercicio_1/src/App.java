@@ -43,7 +43,7 @@ public class App {
         System.out.println("\'Hola, Grupo_58\'");
         System.out.println("\"Hola, Grupo_58\"");
 
-        var $mivariable = 0;
-        var _mivariable = "0";
+        // var $mivariable = 0;
+        // var _mivariable = "0";
     }
 }

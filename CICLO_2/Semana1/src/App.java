@@ -1,13 +1,13 @@
-import java.util.Scanner;
+//import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        var sc = new Scanner(System.in);
+        // var sc = new Scanner(System.in);
         System.out.println("Ingrese su nombre : ");
-        var nombre = sc.nextLine();
+        // var nombre = sc.nextLine();
 
-        var resultado = saludo(nombre);
-        System.out.println(resultado);
+        // var resultado = saludo(nombre);
+        // System.out.println(resultado);
 
     }
 
