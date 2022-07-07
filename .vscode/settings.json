@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
         "CICLO_2/Semana1/src",
+        "CICLO_2/Semana1/Ejercicio_7/src",
         "CICLO_2/Semana1/Ejercicio_6/src",
         "CICLO_2/Semana1/Ejercicio_4/src",
         "CICLO_2/Semana1/Ejercicio_3/src",
         "CICLO_2/Semana1/Ejercicio_2/src",
         "CICLO_2/Semana1/Ejercicio_1/src",
-        "CICLO_2/Semana1/Ejercicio_7/src"
+        "CICLO_2/Semana2/ejercicio_1/src/main/java/co/utp/misiontic2022/c2"
     ]
 }
